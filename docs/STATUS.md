@@ -8,7 +8,7 @@ Updated **October 9, 2026**.
 
 - The [organization profile](https://github.com/WestCoastKBP).
 - The [product direction](PRODUCT.md).
-- [Brand assets](BRAND.md).
+- [Brand assets](../assets/README.md).
 - A [public feedback route](https://github.com/WestCoastKBP/.github/issues).
 
 A public installer, product source release and reproducible product demo are not yet available through this public surface. An internal implementation or an internal test is not a public release.
@@ -35,3 +35,4 @@ These are release prerequisites, not a delivery-date commitment.
 Follow [WestCoastKBP](https://github.com/WestCoastKBP) for public updates. Use [issues](https://github.com/WestCoastKBP/.github/issues) for product questions, use cases and integration suggestions. Please keep credentials and personal or business records out of public posts.
 
 [Back to product direction](PRODUCT.md)
+
