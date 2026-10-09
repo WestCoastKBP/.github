@@ -43,5 +43,5 @@ Follow **WestCoastKBP** for demonstrations and releases as they become available
 
 ---
 
-KBP AI is a product by **West Coast KBP**, founded by **Anton Vorontsov**. It is an independent project; naming a vendor does not imply a partnership.
+KBP AI is a product by **West Coast KBP**. It is an independent project; naming a vendor does not imply a partnership.
 
