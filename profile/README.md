@@ -1,45 +1,47 @@
-# KBP AI — Follow through. Stay in control.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WestCoastKBP/.github/main/assets/wordmark-light.jpg" alt="KBP AI" width="520">
+</p>
 
-We are building one workspace for work and life, with the AI you choose.
+<h1 align="center">Move forward. Stay in control.</h1>
 
-The goal is simple: keep context connected, act within your permissions, and check whether the work actually reached a result.
+<p align="center">We are building a workspace where AI and connected tools help you take a task from a conversation to a checked result.</p>
 
-## Keep the task connected
+<p align="center">
+  <a href="https://github.com/WestCoastKBP/.github/blob/main/docs/PRODUCT.md">Product direction</a> ·
+  <a href="https://github.com/WestCoastKBP/.github/blob/main/docs/STATUS.md">Current status</a> ·
+  <a href="https://github.com/WestCoastKBP/.github/issues">Feedback & collaboration</a>
+</p>
 
-A commitment can start in an email, continue in a message and end with an appointment or a completed project. Changing tools or AI assistants should not mean reconstructing the task.
+## From a request to a result
 
-KBP AI is being built to connect the relevant context, track the next action and show whether the expected result has arrived.
+Describe what you need. Connect the relevant tools and context. Follow the work, make the decisions that need your approval, and check what actually happened.
 
-## One foundation, different contexts
+We are developing two connected capabilities:
 
-- **Personal:** organize chosen commitments, documents and appointments.
-- **Business:** connect inquiries, follow-up and project work.
-- **Engineering:** connect tasks, execution, review and results.
+- **Build useful software.** Turn a request into an application or feature you can open, test and improve.
+- **Carry out work through connected tools.** Keep the context and next action together across messages, documents and appointments.
 
-These are applications of one foundation, with separate data and permissions — not three finished products.
+The experience we are working toward is simple: you can see what is running, what needs your decision and whether the expected result has been confirmed.
 
-## Working with AI, not replacing it
+## Built around your choice of AI
 
-Our direction is to make durable work context accessible through supported integrations with tools such as ChatGPT and Claude. The workspace should remain yours when you change the assistant you use.
+KBP AI is intended to work with the assistants and tools you choose. Our current integration priorities are OpenAI, GitHub and Google, using supported interfaces such as MCP where applicable.
 
-Client compatibility, account requirements and available actions must be documented and tested individually.
+The product is being designed for use from iPhone and iPad as well as a computer. Each supported integration will have documented account requirements, permissions and limits.
 
-## What follow-through means
+## Where we are today
 
-Here is the experience we want to demonstrate:
+**KBP AI is a prototype in development.** This public repository contains our product presentation. A public installer, source release and reproducible product demo are not available here yet.
 
-A request arrives. A response is authorized and its send is confirmed. The system tracks the expected reply. An appointment is recorded only when confirmed. If confirmation is missing, the task remains open.
+Our public updates will pair each demonstrated capability with its version, a way to try it and known limitations. See [current status](https://github.com/WestCoastKBP/.github/blob/main/docs/STATUS.md).
 
-This is a target workflow, not a claim that every channel or step is already supported.
+## Help shape the work
 
-## Current status
+Have a task you want AI to handle, an integration idea or a proposal for collaboration? [Start a public conversation](https://github.com/WestCoastKBP/.github/issues). A concrete problem and the result you need are enough to begin. Please keep confidential details out of public issues.
 
-KBP AI is in development. This organization currently shares the product direction; it is not a generally available release or a promise of universal integrations.
+Follow **WestCoastKBP** for demonstrations and releases as they become available.
 
-We will publish supported installation paths, reproducible demonstrations and explicit limitations as they are verified. Public materials will exclude private correspondence, credentials and personal records.
+---
 
-## Follow the work
+KBP AI is a product by **West Coast KBP**, founded by **Anton Vorontsov**. It is an independent project; naming a vendor does not imply a partnership.
 
-Follow [WestCoastKBP](https://github.com/WestCoastKBP) for verified demonstrations and release updates.
-
-KBP AI is an independent project. Mentioning OpenAI, Anthropic or GitHub does not imply an official partnership.
