@@ -7,6 +7,7 @@
 <p align="center">We are building a workspace where AI and connected tools help you take a task from a conversation to a checked result.</p>
 
 <p align="center">
+  <a href="https://kbp-ai-public.cw9hhvr9qt.chatgpt.site/">Website preview</a> ·
   <a href="https://github.com/WestCoastKBP/.github/blob/main/docs/PRODUCT.md">Product direction</a> ·
   <a href="https://github.com/WestCoastKBP/.github/blob/main/docs/STATUS.md">Current status</a> ·
   <a href="https://github.com/WestCoastKBP/.github/issues">Feedback & collaboration</a>
@@ -38,6 +39,8 @@ Our public updates will pair each demonstrated capability with its version, a wa
 ## Help shape the work
 
 Have a task you want AI to handle, an integration idea or a proposal for collaboration? [Start a public conversation](https://github.com/WestCoastKBP/.github/issues). A concrete problem and the result you need are enough to begin. Please keep confidential details out of public issues.
+
+For a private collaboration proposal, email [West Coast KBP](mailto:hello@westcoastkbp.com).
 
 Follow **WestCoastKBP** for demonstrations and releases as they become available.
 
