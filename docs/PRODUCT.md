@@ -1,6 +1,8 @@
 # Product direction
 
-**KBP AI is being built as one workspace for your AI and tools.**
+**Knowledge Becomes Progress.**
+
+KBP AI is being built as one workspace for your AI and tools. KBP stands for Knowledge Becomes Progress; AI stands for Artificial Intelligence. Our purpose is to help people turn knowledge and AI into useful actions and checked results in real life. See the [brand and philosophy](BRAND.md).
 
 The recurring problem is fragmented work. A request arrives in one app, supporting context lives elsewhere, and the next action disappears when the conversation ends. KBP AI is intended to keep that work connected until the expected result is confirmed.
 
