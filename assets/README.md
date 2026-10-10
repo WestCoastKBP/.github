@@ -1,9 +1,9 @@
 # KBP AI brand assets
 
-Raster exports for the KBP AI public profile.
+The primary slogan is **Knowledge Becomes Progress**. KBP stands for Knowledge Becomes Progress; AI stands for Artificial Intelligence. See the [brand and philosophy](../docs/BRAND.md).
 
-- wordmark-light.jpg — full product name on a light background.
-- wordmark-dark.jpg — companion wordmark for dark mode.
-- avatar-kbp.jpg — compact KBP avatar.
+Current repository asset:
 
-See [brand usage](../docs/BRAND.md).
+- [wordmark-light.jpg](wordmark-light.jpg) — KBP AI wordmark on a light background.
+
+This inventory lists the export present in this repository. A new logo or additional visual assets have not been adopted by the philosophy decision.
