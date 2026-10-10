@@ -30,4 +30,4 @@ West Coast KBP remains the company attribution. The GitHub organization display 
 
 This is an adopted purpose and writing standard. **KBP AI is a prototype in development.** A philosophy document does not establish that a feature works or that an integration, installation or release is available. Public claims need demonstrations and verified evidence; see [current status](STATUS.md).
 
-The existing visual assets are documented in [assets](../assets/README.md). This decision introduces no new logo, palette or interface design.
+The Owner adopted the typographic KBP AI identity and authorized its rollout on October 10, 2026. The full name is the logo: bold KBP and thin, separately spaced AI. The wordmark, avatar and companion signature come from the same vector geometry. See the [identity standard](IDENTITY.md) and [exports](../assets/README.md). Adoption of the brand does not establish that an application release or profile update has occurred.

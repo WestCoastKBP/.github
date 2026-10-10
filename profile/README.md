@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WestCoastKBP/.github/main/assets/wordmark-light.jpg" alt="KBP AI" width="520">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WestCoastKBP/.github/main/assets/identity-v1/kbp-ai-wordmark-dark.svg">
+    <img src="https://raw.githubusercontent.com/WestCoastKBP/.github/main/assets/identity-v1/kbp-ai-wordmark-light.svg" alt="KBP AI" width="520">
+  </picture>
 </p>
 
 <h1 align="center">Knowledge Becomes Progress</h1>
