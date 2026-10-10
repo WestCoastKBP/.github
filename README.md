@@ -6,6 +6,12 @@ This repository contains the public product presentation and brand assets for **
 
 KBP AI is being built as one workspace for the AI and tools you use, with connected context, clear permissions and visible task progress. It is currently a prototype in development.
 
+## Our north star
+
+AI should help people act in the outside world and reach checked results, while keeping human control over decisions, data and permissions. Security, privacy and recovery from lost or compromised access are baseline product requirements from the first connection.
+
+Read the [shared philosophy for employees, contributors and AI coordinators](docs/BRAND.md).
+
 ## Explore
 
 - [Organization profile](https://github.com/WestCoastKBP)
