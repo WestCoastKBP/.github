@@ -10,12 +10,19 @@
 <p align="center">We are building KBP AI to help people turn knowledge and AI into useful actions and checked results in real life.</p>
 
 <p align="center">
+  <a href="https://github.com/WestCoastKBP/.github/blob/main/docs/BRAND.md">Our philosophy</a> ·
   <a href="https://github.com/WestCoastKBP/.github/blob/main/docs/PRODUCT.md">Product direction</a> ·
   <a href="https://github.com/WestCoastKBP/.github/blob/main/docs/STATUS.md">Current status</a> ·
   <a href="https://github.com/WestCoastKBP/.github/issues">Feedback & collaboration</a>
 </p>
 
 **KBP** stands for **Knowledge Becomes Progress**. **AI** stands for **Artificial Intelligence**. This name expresses our purpose; see our [brand and philosophy](https://github.com/WestCoastKBP/.github/blob/main/docs/BRAND.md).
+
+## Our north star
+
+We aim to expand AI's useful interaction with the outside world through authorized actions and checked results. People keep control over decisions, data and permissions.
+
+Security, privacy and recovery from lost or compromised access are baseline product requirements from the first connection. Each protection must be implemented and verified.
 
 ## From a request to a result
 
