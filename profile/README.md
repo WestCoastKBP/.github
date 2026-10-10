@@ -2,16 +2,17 @@
   <img src="https://raw.githubusercontent.com/WestCoastKBP/.github/main/assets/wordmark-light.jpg" alt="KBP AI" width="520">
 </p>
 
-<h1 align="center">Move forward. Stay in control.</h1>
+<h1 align="center">Knowledge Becomes Progress</h1>
 
-<p align="center">We are building a workspace where AI and connected tools help you take a task from a conversation to a checked result.</p>
+<p align="center">We are building KBP AI to help people turn knowledge and AI into useful actions and checked results in real life.</p>
 
 <p align="center">
-  <a href="https://kbp-ai-public.cw9hhvr9qt.chatgpt.site/">Website preview</a> ·
   <a href="https://github.com/WestCoastKBP/.github/blob/main/docs/PRODUCT.md">Product direction</a> ·
   <a href="https://github.com/WestCoastKBP/.github/blob/main/docs/STATUS.md">Current status</a> ·
   <a href="https://github.com/WestCoastKBP/.github/issues">Feedback & collaboration</a>
 </p>
+
+**KBP** stands for **Knowledge Becomes Progress**. **AI** stands for **Artificial Intelligence**. This name expresses our purpose; see our [brand and philosophy](https://github.com/WestCoastKBP/.github/blob/main/docs/BRAND.md).
 
 ## From a request to a result
 
@@ -42,9 +43,8 @@ Have a task you want AI to handle, an integration idea or a proposal for collabo
 
 For a private collaboration proposal, email [West Coast KBP](mailto:hello@westcoastkbp.com).
 
-Follow **WestCoastKBP** for demonstrations and releases as they become available.
+Follow **KBP AI** for demonstrations and releases as they become available.
 
 ---
 
 KBP AI is a product by **West Coast KBP**. It is an independent project; naming a vendor does not imply a partnership.
-
