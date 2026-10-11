@@ -35,7 +35,7 @@ This is an illustrative target workflow, not a working public demo. Progress mea
 
 ## Your AI, explicit access
 
-KBP AI is intended to work with the assistants and tools a person chooses. OpenAI, Anthropic, GitHub and Google are relevant to this direction; supported interfaces such as MCP should be used where appropriate.
+KBP AI is intended to work with the assistants and tools a person chooses. Our current integration priorities are OpenAI, GitHub and Google, using supported interfaces such as MCP where applicable.
 
 Account sign-in, access to tools and permission to perform an action are separate requirements. We will document the supported client, account requirements, available operations, limits and billing for each integration. A subscription or sign-in must not be presented as universal access to a vendor's tools.
 
@@ -46,3 +46,4 @@ Account sign-in, access to tools and permission to perform an action are separat
 Read the [project status](STATUS.md), [suggest a concrete use case](https://github.com/WestCoastKBP/.github/issues), or follow [KBP AI](https://github.com/WestCoastKBP) for demonstrations and releases. Please keep private records and credentials out of public discussions.
 
 [Back to KBP AI](https://github.com/WestCoastKBP)
+
