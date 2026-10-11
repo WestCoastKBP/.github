@@ -1,6 +1,6 @@
 # Project status
 
-Updated **October 9, 2026**.
+Updated **October 10, 2026**.
 
 **KBP AI is a prototype in development.** The public surface currently consists of the product presentation, direction, status and brand assets in this repository.
 
@@ -8,6 +8,7 @@ Updated **October 9, 2026**.
 
 - The [organization profile](https://github.com/WestCoastKBP).
 - The [product direction](PRODUCT.md).
+- The adopted [brand and philosophy](BRAND.md): KBP AI, Knowledge Becomes Progress.
 - [Brand assets](../assets/README.md).
 - A [public feedback route](https://github.com/WestCoastKBP/.github/issues).
 
@@ -32,7 +33,6 @@ These are release prerequisites, not a delivery-date commitment.
 
 ## Updates and feedback
 
-Follow [WestCoastKBP](https://github.com/WestCoastKBP) for public updates. Use [issues](https://github.com/WestCoastKBP/.github/issues) for product questions, use cases and integration suggestions. Please keep credentials and personal or business records out of public posts.
+Follow [KBP AI](https://github.com/WestCoastKBP) for public updates. Use [issues](https://github.com/WestCoastKBP/.github/issues) for product questions, use cases and integration suggestions. Please keep credentials and personal or business records out of public posts.
 
 [Back to product direction](PRODUCT.md)
-
