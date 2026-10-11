@@ -51,7 +51,7 @@ Our public updates will pair each demonstrated capability with its version, a wa
 
 Have a task you want AI to handle, an integration idea or a proposal for collaboration? [Start a public conversation](https://github.com/WestCoastKBP/.github/issues). A concrete problem and the result you need are enough to begin. Please keep confidential details out of public issues.
 
-For a private collaboration proposal, email [West Coast KBP](mailto:hello@westcoastkbp.com).
+For a private collaboration proposal, email [hello@kbp-ai.com](mailto:hello@kbp-ai.com).
 
 Follow **KBP AI** for demonstrations and releases as they become available.
 
