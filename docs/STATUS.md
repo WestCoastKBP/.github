@@ -1,38 +1,38 @@
 # Project status
 
-Updated **October 10, 2026**.
+Updated **October 11, 2026**.
 
-**KBP AI is a prototype in development.** The public surface currently consists of the product presentation, direction, status and brand assets in this repository.
+**KBP AI is a prototype in development.** The product direction is a personal AI assistant for everyday life and work, with a factory as the first workspace for developing its capabilities.
 
 ## Available publicly
 
 - The [organization profile](https://github.com/WestCoastKBP).
-- The [product direction](PRODUCT.md).
-- The adopted [brand and philosophy](BRAND.md): KBP AI, Knowledge Becomes Progress.
+- [Product direction](PRODUCT.md) and [brand philosophy](BRAND.md).
 - [Brand assets](../assets/README.md).
-- A [public feedback route](https://github.com/WestCoastKBP/.github/issues).
+- [Use-case discussion](https://github.com/WestCoastKBP/.github/issues) and [collaboration contact](mailto:hello@kbp-ai.com).
 
-A public installer, product source release and reproducible product demo are not yet available through this public surface. An internal implementation or an internal test is not a public release.
+A public installer, implementation source release and reproducible product demo are not yet available here. An internal implementation or test is not a public release.
 
-## Next public proof
+## Demonstration targets
 
-A bounded, read-only engineering demonstration explaining why a task is blocked from its actual facts. The demonstration should identify the version, show the relevant checks and make its limitations clear.
+1. An idea retained as a briefing, examined by two independent AI models and returned for a decision. Device reopening, persistence and review results must be verified before presentation as a working demo.
+2. Voice capture into that workflow, verified on the supported device.
+3. An incoming email carried through to an approved reply, with retained history, duplicate handling, recovery and visible failures.
 
-It will be described as available only when the demo and its evidence can be opened and reproduced.
+These are demonstration targets, not availability claims or delivery dates. Later directions include assistant setup, a context graph, browser actions, maps, telephone assistance and smart-home connections. Each requires its own implementation and acceptance.
 
 ## Before a public product release
 
-- A reviewed public export that excludes secrets, private records and internal-only material.
-- A runnable example with documented prerequisites and expected output.
-- Supported platforms and integrations, including account and billing requirements.
-- An approved license for the released implementation.
-- A named support and maintenance route.
-- A verified release version with known limitations.
+- A reviewed export excluding secrets, private records and internal-only material.
+- A runnable example with prerequisites and expected output.
+- Documented platforms, account requirements, permissions and billing.
+- An approved license for the implementation.
+- A support and maintenance route.
+- A verified version with known limitations.
 
-These are release prerequisites, not a delivery-date commitment.
+## Follow and contribute
 
-## Updates and feedback
-
-Follow [KBP AI](https://github.com/WestCoastKBP) for public updates. Use [issues](https://github.com/WestCoastKBP/.github/issues) for product questions, use cases and integration suggestions. Please keep credentials and personal or business records out of public posts.
+Follow [KBP AI](https://github.com/WestCoastKBP) for demonstrations and releases. [Share a use case](https://github.com/WestCoastKBP/.github/issues) without credentials or personal records.
 
 [Back to product direction](PRODUCT.md)
+
