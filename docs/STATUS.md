@@ -1,38 +1,37 @@
-# Project status
+# Development status
 
-Updated **October 10, 2026**.
+Updated **October 11, 2026**.
 
-**KBP AI is a prototype in development.** The public surface currently consists of the product presentation, direction, status and brand assets in this repository.
+**KBP AI is a prototype in development.** Our direction covers work, personal life and creation. Our public entry point is [the KBP AI organization profile](https://github.com/WestCoastKBP).
 
-## Available publicly
+## What you can see today
 
-- The [organization profile](https://github.com/WestCoastKBP).
-- The [product direction](PRODUCT.md).
-- The adopted [brand and philosophy](BRAND.md): KBP AI, Knowledge Becomes Progress.
-- [Brand assets](../assets/README.md).
-- A [public feedback route](https://github.com/WestCoastKBP/.github/issues).
+This public surface provides [product direction](PRODUCT.md), [philosophy](BRAND.md), [brand assets](../assets/README.md) and a [collaboration contact](mailto:hello@kbp-ai.com).
 
-A public installer, product source release and reproducible product demo are not yet available through this public surface. An internal implementation or an internal test is not a public release.
+There is no public installer, implementation source release or reproducible product demo yet. Internal development and tests do not establish public availability.
 
-## Next public proof
+## The next proof
 
-A bounded, read-only engineering demonstration explaining why a task is blocked from its actual facts. The demonstration should identify the version, show the relevant checks and make its limitations clear.
+| Demonstration target | What must be shown |
+| --- | --- |
+| GitHub first | The intended account and repository, actual issue and pull-request state, and a selected task whose context and result can be reopened. |
+| Gmail next | A real incoming email, an approved reply, a confirmed send and history after reopening; duplicates, interruption and failures handled visibly. |
+| Supporting capabilities | Retained briefings, independent model analyses and voice capture that support a complete task, with actual results and any measured costs reported. |
 
-It will be described as available only when the demo and its evidence can be opened and reproduced.
+These are development targets, not released features or delivery dates.
 
-## Before a public product release
+These demonstrations target the intended iPhone and iPad interface; acceptance on physical devices remains to be completed. Briefings, model analyses and voice capture support the work rather than set the connection priority.
 
-- A reviewed public export that excludes secrets, private records and internal-only material.
-- A runnable example with documented prerequisites and expected output.
-- Supported platforms and integrations, including account and billing requirements.
-- An approved license for the released implementation.
-- A named support and maintenance route.
-- A verified release version with known limitations.
+The first-run guide covers identity, API access, budget, connections and assistant setup. It remains in design. Telegram and WhatsApp are later communication targets. A full context graph, browser runtime, maps, telephone assistance and smart-home connections are further directions.
 
-These are release prerequisites, not a delivery-date commitment.
+## What a release must include
 
-## Updates and feedback
+A reviewed public source or distribution, an approved implementation license, documented platforms and account requirements, a working starting path, known limitations and a support route.
 
-Follow [KBP AI](https://github.com/WestCoastKBP) for public updates. Use [issues](https://github.com/WestCoastKBP/.github/issues) for product questions, use cases and integration suggestions. Please keep credentials and personal or business records out of public posts.
+Each public demonstration will identify its version, prerequisites and verified scope. Evidence must be suitable for public viewing without private records or credentials.
 
-[Back to product direction](PRODUCT.md)
+## Updates
+
+Follow [KBP AI](https://github.com/WestCoastKBP) for demonstrated progress. Use [public feedback](https://github.com/WestCoastKBP/.github/issues) for non-confidential questions.
+
+[Product direction](PRODUCT.md) · [KBP AI](https://github.com/WestCoastKBP)
