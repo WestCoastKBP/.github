@@ -7,8 +7,8 @@
 
 <h1 align="center">Knowledge Becomes Progress</h1>
 
-<p align="center"><strong>A personal AI assistant for everyday life and work.</strong></p>
-<p align="center">We’re building KBP AI to help you bring AI into your life — connect relevant context, make decisions and carry tasks through to verified results.</p>
+<p align="center"><strong>Your AI workspace for the real world.</strong></p>
+<p align="center">We’re building a workspace that connects your chosen AI, services and everyday context — so you can create, manage work and organize life, with control over permissions, costs and results.</p>
 <p align="center"><strong>Prototype in development.</strong></p>
 
 <p align="center">
@@ -17,23 +17,25 @@
   <a href="https://github.com/WestCoastKBP/.github/blob/main/docs/BRAND.md">Our philosophy</a>
 </p>
 
-## Your assistant, connected to your world
+## Work, life and creation
 
-Messages, documents and commitments belong to the same life, even when they arrive in different apps. KBP AI is designed to keep the relevant context and next action together.
+KBP AI is designed to bring useful AI workflows into one environment, with context and permissions suited to each task.
 
-| Scenario we are developing | What the assistant should help you do |
+| Direction | Scenarios we are developing |
 | --- | --- |
-| Communication | Bring selected incoming messages together, prepare replies and follow up on agreements. |
-| Decisions | Turn an idea into a retained briefing, examine it with chosen AI models and return to the decision later. |
-| Action | Work through connected services and websites; expand into maps, voice and smart-home scenarios over time. |
+| Work and business | Organize requests, documents and follow-up; build tools for the way you work. |
+| Personal life | Keep selected messages, appointments and commitments connected; configure your own assistant. |
+| Creation | Develop an idea into a website, application or creative project, then test and improve it. |
+
+KBP AI is intended to make it easier to explore an idea and understand how to carry it forward. Start with a guided task, learn the process as you work, and build toward a business, personal project or creative goal you choose.
 
 For example, an appointment request arrives. The assistant finds the relevant context, prepares the next step and asks for any approval it needs. After acting, it checks the result and keeps the history with the matter.
 
 This is the experience we are building, not a released workflow.
 
-## Start with the factory. Shape your assistant.
+## Start with the factory. Build what you need.
 
-The factory is our first workspace for developing and testing capabilities. The intended first-run guide will help you connect an AI provider, set a budget and configure an assistant for a useful task. The engine works behind the scenes; you see the steps, decisions and results.
+The factory is our first workspace for developing and testing capabilities. It is intended to help you shape agents, add supported connections and build useful software. The first-run guide will bring you through AI access, budget and one complete task. The engine works behind the scenes; you see steps, decisions and results.
 
 Personal and Work spaces are designed with separate data and permissions. You choose which sources the assistant may use and what it may do.
 
@@ -41,7 +43,7 @@ Personal and Work spaces are designed with separate data and permissions. You ch
 
 We are targeting iPhone and iPad as the primary interface, with Linux and macOS deployment in mind. The runtime is intended to run on a computer you control or a hosted virtual machine.
 
-API connections are part of the product direction, alongside subscription routes where vendors support them. We are designing visible costs and configurable budgets for models and paid services.
+We are building around the evolving capabilities of OpenAI, Anthropic and Google through supported APIs and MCP, alongside subscription routes where available. Useful core workflows are intended to be part of the product; third-party service costs should stay visible and budgeted. New capabilities will be introduced as complete, tested scenarios.
 
 ## Follow the build
 
@@ -52,4 +54,3 @@ There is no public installer, implementation source release or reproducible prod
 ---
 
 **KBP AI — Knowledge Becomes Progress.** A product by **West Coast KBP**. AI means Artificial Intelligence. Independent project; vendor names do not imply partnership or endorsement.
-
