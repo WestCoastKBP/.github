@@ -14,14 +14,15 @@ There is no public installer, implementation source release or reproducible prod
 
 | Demonstration target | What must be shown |
 | --- | --- |
-| A retained briefing | An idea saved and reopened on the supported device with the same context. |
-| Two independent analyses | Actual review results from two model providers, returned to the person for a decision; cost and latency reported when measured. |
-| Voice capture | A real voice command entering the same retained workflow on the supported device. |
-| Email and follow-up | A real incoming email, an approved reply, a confirmed send and history after reopening; duplicates, interruption and failures handled visibly. |
+| GitHub first | The intended account and repository, actual issue and pull-request state, and a selected task whose context and result can be reopened. |
+| Gmail next | A real incoming email, an approved reply, a confirmed send and history after reopening; duplicates, interruption and failures handled visibly. |
+| Supporting capabilities | Retained briefings, independent model analyses and voice capture that support a complete task, with actual results and any measured costs reported. |
 
 These are development targets, not released features or delivery dates.
 
-The first-run guide follows the briefing/review/voice work: identity, API access, budget, connections and assistant setup. It remains in design. A full context graph, browser runtime, maps, telephone assistance and smart-home connections are further directions.
+These demonstrations target the intended iPhone and iPad interface; acceptance on physical devices remains to be completed. Briefings, model analyses and voice capture support the work rather than set the connection priority.
+
+The first-run guide covers identity, API access, budget, connections and assistant setup. It remains in design. Telegram and WhatsApp are later communication targets. A full context graph, browser runtime, maps, telephone assistance and smart-home connections are further directions.
 
 ## What a release must include
 
