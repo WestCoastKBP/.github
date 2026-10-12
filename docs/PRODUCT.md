@@ -65,7 +65,9 @@ API use belongs in the product from the start. Supported subscriptions and separ
 
 ## First demonstrations
 
-The nearest target is an idea retained as a briefing, reviewed by two independent AI models and returned for a decision. Voice capture comes next. An incoming email carried through to an approved reply is a further target for action in the world.
+The first demonstration direction is a useful GitHub connection: see the intended account and repository, read actual task and pull-request state, and follow a selected task to a verified result. Gmail comes next: a selected incoming thread, retained context, an approved reply and a confirmed send.
+
+Briefings, independent model analyses and voice capture are supporting capabilities. Each needs acceptance on the supported device before it can be presented as available.
 
 [Development status](STATUS.md) records what is publicly available and what proof is still needed.
 
