@@ -1,6 +1,6 @@
 # Product direction
 
-**KBP AI is a personal AI assistant for everyday life and work.**
+**KBP AI is your AI workspace for the real world.**
 
 Our philosophy is **Knowledge Becomes Progress**: help a person integrate AI into their life, make decisions and interact with the outside world through authorized actions and verified results.
 
@@ -9,6 +9,16 @@ Our philosophy is **Knowledge Becomes Progress**: help a person integrate AI int
 ## Who we are building for
 
 People who already use AI but still move context between conversations, documents and apps themselves. We want to make that work easier while giving the person clear control of their assistant. This is an audience hypothesis to test.
+
+The entry should also help people who want to try something new: understand the steps, experiment with a project and develop their own skills. The workspace should support their choices rather than prescribe one profession or type of project.
+
+## Work, life and creation
+
+The product direction spans business and professional work, personal affairs and creative projects. The factory should let a person develop websites, applications, agents and integrations for a concrete goal. A personal assistant is one configurable role within that environment.
+
+Useful core workflows are intended to be part of the product. Third-party APIs, model use, voice and other paid services can still have their own costs. Product pricing and the exact included feature set are not announced.
+
+We will follow the evolving capabilities of OpenAI, Anthropic and Google and introduce those that support a useful scenario. Each added tool, connection or control must complete its intended workflow before being represented as supported. Vendor availability alone does not establish KBP AI integration.
 
 ## One matter, connected context
 
@@ -60,4 +70,3 @@ The nearest target is an idea retained as a briefing, reviewed by two independen
 [Development status](STATUS.md) records what is publicly available and what proof is still needed.
 
 [Back to KBP AI](https://github.com/WestCoastKBP)
-
