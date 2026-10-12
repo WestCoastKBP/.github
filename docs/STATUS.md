@@ -2,7 +2,7 @@
 
 Updated **October 11, 2026**.
 
-**KBP AI is a prototype in development.** Our public entry point is [the KBP AI organization profile](https://github.com/WestCoastKBP).
+**KBP AI is a prototype in development.** Our direction covers work, personal life and creation. Our public entry point is [the KBP AI organization profile](https://github.com/WestCoastKBP).
 
 ## What you can see today
 
@@ -34,4 +34,3 @@ Each public demonstration will identify its version, prerequisites and verified 
 Follow [KBP AI](https://github.com/WestCoastKBP) for demonstrated progress. Use [public feedback](https://github.com/WestCoastKBP/.github/issues) for non-confidential questions.
 
 [Product direction](PRODUCT.md) · [KBP AI](https://github.com/WestCoastKBP)
-
