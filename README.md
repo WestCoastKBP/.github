@@ -1,30 +1,29 @@
-# KBP AI — public profile
+# KBP AI — Knowledge Becomes Progress
 
-This repository contains the public product presentation and brand assets for **KBP AI**, a product by **West Coast KBP**.
+**A personal AI assistant for everyday life and work — in development.**
 
-**KBP** stands for **Knowledge Becomes Progress**, our primary slogan. **AI** stands for **Artificial Intelligence**. Our purpose is to help people turn knowledge and AI into useful actions and checked results in real life.
+KBP AI is being built to help a person bring AI into their life, connect relevant context and carry tasks through to verified results.
 
-KBP AI is being built as one workspace for the AI and tools you use, with connected context, clear permissions and visible task progress. It is currently a prototype in development.
+## Start here
 
-## Our north star
+The [KBP AI organization profile](https://github.com/WestCoastKBP) is our public entry point.
 
-AI should help people act in the outside world and reach checked results, while keeping human control over decisions, data and permissions. Security, privacy and recovery from lost or compromised access are baseline product requirements from the first connection.
+- [Product direction](docs/PRODUCT.md): the assistant, factory, workspaces and intended first-run journey.
+- [Development status](docs/STATUS.md): current availability and the next demonstrations.
+- [Brand and philosophy](docs/BRAND.md): Knowledge Becomes Progress.
+- [Brand assets](assets/README.md): the adopted wordmark and identity.
 
-Read the [shared philosophy for employees, contributors and AI coordinators](docs/BRAND.md).
+## About this repository
 
-## Explore
+This public repository contains product presentation, documentation and brand assets. It does not contain the product implementation or an installer.
 
-- [Organization profile](https://github.com/WestCoastKBP)
-- [Brand and philosophy](docs/BRAND.md)
-- [Product direction](docs/PRODUCT.md)
-- [Current status and release prerequisites](docs/STATUS.md)
-- [Brand assets](assets)
-- [Feedback and documentation contributions](CONTRIBUTING.md)
+The organization profile is rendered from [profile/README.md](profile/README.md). A public implementation release will need its own reviewed source, license and working starting path.
 
-## Repository scope
+## Follow or contact
 
-This is a presentation repository. It does not contain a public installer or the product implementation. The files here should not be treated as evidence of a generally available release.
+Follow [KBP AI](https://github.com/WestCoastKBP) for demonstrated progress. For collaboration, contact [hello@kbp-ai.com](mailto:hello@kbp-ai.com).
 
-The organization profile is rendered from [profile/README.md](profile/README.md). Brand images are stored in [assets](assets).
+[Documentation contributions](CONTRIBUTING.md) and [non-confidential product feedback](https://github.com/WestCoastKBP/.github/issues) are welcome. Keep private records and credentials out of public discussions.
 
-For a use case, integration suggestion or potential collaboration, open a [public issue](https://github.com/WestCoastKBP/.github/issues) with a short description. Keep confidential information out of public discussions.
+KBP means **Knowledge Becomes Progress**. AI means **Artificial Intelligence**. A product by **West Coast KBP**.
+

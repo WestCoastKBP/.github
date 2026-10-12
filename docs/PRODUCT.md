@@ -1,73 +1,63 @@
 # Product direction
 
-**KBP AI — Knowledge Becomes Progress.**
+**KBP AI is a personal AI assistant for everyday life and work.**
 
-We are building a personal AI assistant for everyday life and work. Our purpose is to help a person integrate AI into their life and interact with the outside world: understand context, make decisions, perform authorized actions and verify what happened.
+Our philosophy is **Knowledge Becomes Progress**: help a person integrate AI into their life, make decisions and interact with the outside world through authorized actions and verified results.
 
-## A matter that continues over time
+**Prototype in development.** The experience below is our direction; it is not a released product.
 
-Information arrives through different channels. A conversation, document, appointment and commitment may belong to the same matter, yet the person has to reconnect them each time.
+## Who we are building for
 
-KBP AI is intended to retain relevant context and relationships between people, messages, documents, deadlines and next actions. Sources and uncertainty should stay visible; the user should be able to correct information and control retention. A comprehensive context graph is a development goal, not an implemented capability claimed by this page.
+People who already use AI but still move context between conversations, documents and apps themselves. We want to make that work easier while giving the person clear control of their assistant. This is an audience hypothesis to test.
 
-## The factory: first contour
+## One matter, connected context
 
-The factory is the intended first workspace for developing and testing capabilities. Over time, it should help users configure task-specific agents, add supported integrations and build out further workspaces.
+Consider an appointment request. The assistant should recognize the person, find the relevant conversation or document, prepare a response and ask for the approval it needs. It should check the outcome and retain the next action, so the matter can continue later.
 
-The engineering factory currently develops the product. A self-service factory for nontechnical users, runtime agent configuration and guided installation are not publicly available.
+Relationships between people, messages, documents and commitments form the context we intend to preserve. Sources, uncertainty and corrections must remain visible. A full context graph and personal retention controls still require implementation.
 
-Personal and Work spaces must have separate data and permissions. Shared execution must not silently share records, broaden access or lose a matter's history. These boundaries require technical enforcement and verification.
+## The factory and your workspaces
 
-## Set up your personal assistant
+The factory is the first contour: it develops and tests capabilities that can become part of your assistant. The intended product will let users shape task-specific agents and add supported integrations.
 
-Assistant setup is part of the intended default onboarding. A person should be able to choose:
+The first-run guide should make this accessible without showing engine jobs, reviews or pull requests. You see the steps, connection health, decisions and results. Technical history should be available when needed.
 
-- The assistant's identity, voice and responsibilities.
-- Which incoming accounts and channels it can access.
-- What it may prepare, perform or escalate to the person.
-- Which models and paid services it can use, within a chosen budget.
+Personal and Work spaces are designed to keep their data and permissions separate. Shared execution must not silently share records or expand an agent's authority. Complete enforcement is still a release requirement.
 
-Offering setup by default does not mean enabling collection, answering or recording by default. Each channel needs its own authorization.
+## The intended first-run journey
 
-## Connect to the outside world
+| Step | What you choose or receive |
+| --- | --- |
+| Sign in | Your identity. Apple and Google are planned; Sign in with ChatGPT depends on eligibility being confirmed for KBP AI. |
+| Connect AI | An API provider and supported subscription routes where available. Identity sign-in alone does not supply model access. |
+| Set a budget | Spending limits for models and paid services, with visible usage and a record of costs. |
+| Connect a source | An account or service, its permissions and its Personal or Work placement. |
+| Configure your assistant | Its responsibilities, voice and the actions it may perform or escalate. |
+| Complete one task | A retained result that you can check and reopen on your device. |
 
-The direction spans communication, documents, calendars, maps, search, browser tasks and smart-home scenarios. Use supported APIs and MCP where appropriate; browser interaction is another route when the task and site permit it. Each integration must document its supported accounts, actions and limits.
+The guide is not built yet. Offering assistant setup by default does not enable collection, answering or recording without the user's choice.
 
-For a browser task, the assistant should inspect the current page, act within the request and check the result. Website content cannot grant permissions. When an external action has an uncertain outcome, the assistant should reconcile it before retrying.
+## Connections that grow with the assistant
 
-Phone assistance is a planned scenario: take a message, retain it in the appropriate workspace and present a follow-up. A Twilio number or carrier-supported forwarding may provide the telephone connection; voice services such as ElevenLabs are candidates. No working KBP AI telephone service is claimed here.
+Our direction includes communication, documents, calendars, maps, search, browser tasks and smart-home scenarios. Use supported APIs and MCP where appropriate, with documented operations and permissions for each connection.
 
-## Devices and deployment
+Phone assistance is another planned scenario: answer an authorized channel, take a message and retain a follow-up. Twilio and ElevenLabs are candidates; an existing mobile number may need carrier-supported forwarding. No live KBP AI telephone service is claimed.
 
-We are targeting iPhone and iPad as the primary interface, with Linux and macOS deployment in mind and a Mac client as a possible extension.
+Every channel needs its own complete acceptance: incoming information, retained history, authorized action, confirmed result and visible failures. Uncertain sends must be reconciled before retrying.
 
-The intended runtime can live on a home computer or hosted virtual machine. Separate execution, workers and data services form the architecture direction. Dedicated storage and local models are optional configurations to investigate; deployment profiles and an installer are not yet released.
+## Devices, runtime and cost
 
-Local storage does not imply fully local processing. Cloud models and connected services may receive task data. The user needs to understand that path.
+We are targeting iPhone and iPad as the primary interface, with Linux and macOS deployment in mind. Home hardware and hosted virtual machines are intended deployment options. An installer and supported deployment profiles are not released.
 
-## Choice of AI and cost control
+The runtime coordinates work, isolated workers execute bounded tasks, and data services retain state. Optional local models and separate storage are directions to investigate. Data sent to a cloud model is not locally processed just because it was stored at home.
 
-Supported subscription-based tools and separately billed APIs are both relevant. One vendor subscription does not grant every API or product feature.
-
-Configurable spending limits are a product requirement: a total budget, allocation across models and paid channels, visible usage and a defined response when a limit is reached. Enforcement and billing visibility still need implementation and acceptance; we do not promise an exact spending cap before it is verified.
-
-## What makes a scenario accepted
-
-A connection probe alone is insufficient. Acceptance requires the whole task: input → retained context → intended action → necessary approval → execution → confirmed result → history after reopening.
-
-Communication scenarios also need duplicate handling, interruption recovery, reconciliation of uncertain sends and visible stale or failed connections. Sensitive actions require the appropriate permission and a human escalation path.
+API use belongs in the product from the start. Supported subscriptions and separately billed APIs have different limits. Configurable budgets, per-provider usage and a transparent cost ledger are requirements, not implemented billing claims. Payment handling and any KBP AI pricing need separate decisions before launch.
 
 ## First demonstrations
 
-The nearest demonstration target is an idea captured into a retained briefing, examined by two independent AI models and returned to the person for a decision. Voice capture is a further step. A complete incoming-email and approved-reply cycle is another target for demonstrating action in the world.
+The nearest target is an idea retained as a briefing, reviewed by two independent AI models and returned for a decision. Voice capture comes next. An incoming email carried through to an approved reply is a further target for action in the world.
 
-These are targets, not publicly available demos. Release evidence will determine what we can claim.
+[Development status](STATUS.md) records what is publicly available and what proof is still needed.
 
-## Join the discussion
-
-**Prototype in development.** There is no public installer, implementation source release or reproducible product demo available through this repository.
-
-[Describe a non-confidential task](https://github.com/WestCoastKBP/.github/issues) and the result you need, or contact [hello@kbp-ai.com](mailto:hello@kbp-ai.com) about collaboration.
-
-[Current status](STATUS.md) · [Our philosophy](BRAND.md) · [KBP AI](https://github.com/WestCoastKBP)
+[Back to KBP AI](https://github.com/WestCoastKBP)
 

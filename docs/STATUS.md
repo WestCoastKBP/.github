@@ -1,38 +1,37 @@
-# Project status
+# Development status
 
 Updated **October 11, 2026**.
 
-**KBP AI is a prototype in development.** The product direction is a personal AI assistant for everyday life and work, with a factory as the first workspace for developing its capabilities.
+**KBP AI is a prototype in development.** Our public entry point is [the KBP AI organization profile](https://github.com/WestCoastKBP).
 
-## Available publicly
+## What you can see today
 
-- The [organization profile](https://github.com/WestCoastKBP).
-- [Product direction](PRODUCT.md) and [brand philosophy](BRAND.md).
-- [Brand assets](../assets/README.md).
-- [Use-case discussion](https://github.com/WestCoastKBP/.github/issues) and [collaboration contact](mailto:hello@kbp-ai.com).
+This public surface provides [product direction](PRODUCT.md), [philosophy](BRAND.md), [brand assets](../assets/README.md) and a [collaboration contact](mailto:hello@kbp-ai.com).
 
-A public installer, implementation source release and reproducible product demo are not yet available here. An internal implementation or test is not a public release.
+There is no public installer, implementation source release or reproducible product demo yet. Internal development and tests do not establish public availability.
 
-## Demonstration targets
+## The next proof
 
-1. An idea retained as a briefing, examined by two independent AI models and returned for a decision. Device reopening, persistence and review results must be verified before presentation as a working demo.
-2. Voice capture into that workflow, verified on the supported device.
-3. An incoming email carried through to an approved reply, with retained history, duplicate handling, recovery and visible failures.
+| Demonstration target | What must be shown |
+| --- | --- |
+| A retained briefing | An idea saved and reopened on the supported device with the same context. |
+| Two independent analyses | Actual review results from two model providers, returned to the person for a decision; cost and latency reported when measured. |
+| Voice capture | A real voice command entering the same retained workflow on the supported device. |
+| Email and follow-up | A real incoming email, an approved reply, a confirmed send and history after reopening; duplicates, interruption and failures handled visibly. |
 
-These are demonstration targets, not availability claims or delivery dates. Later directions include assistant setup, a context graph, browser actions, maps, telephone assistance and smart-home connections. Each requires its own implementation and acceptance.
+These are development targets, not released features or delivery dates.
 
-## Before a public product release
+The first-run guide follows the briefing/review/voice work: identity, API access, budget, connections and assistant setup. It remains in design. A full context graph, browser runtime, maps, telephone assistance and smart-home connections are further directions.
 
-- A reviewed export excluding secrets, private records and internal-only material.
-- A runnable example with prerequisites and expected output.
-- Documented platforms, account requirements, permissions and billing.
-- An approved license for the implementation.
-- A support and maintenance route.
-- A verified version with known limitations.
+## What a release must include
 
-## Follow and contribute
+A reviewed public source or distribution, an approved implementation license, documented platforms and account requirements, a working starting path, known limitations and a support route.
 
-Follow [KBP AI](https://github.com/WestCoastKBP) for demonstrations and releases. [Share a use case](https://github.com/WestCoastKBP/.github/issues) without credentials or personal records.
+Each public demonstration will identify its version, prerequisites and verified scope. Evidence must be suitable for public viewing without private records or credentials.
 
-[Back to product direction](PRODUCT.md)
+## Updates
+
+Follow [KBP AI](https://github.com/WestCoastKBP) for demonstrated progress. Use [public feedback](https://github.com/WestCoastKBP/.github/issues) for non-confidential questions.
+
+[Product direction](PRODUCT.md) · [KBP AI](https://github.com/WestCoastKBP)
 
