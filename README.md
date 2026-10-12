@@ -1,14 +1,14 @@
 # KBP AI — Knowledge Becomes Progress
 
-**A personal AI assistant for everyday life and work — in development.**
+**Your AI workspace for the real world — in development.**
 
-KBP AI is being built to help a person bring AI into their life, connect relevant context and carry tasks through to verified results.
+KBP AI is being built as one environment for work, personal life and creation: connect your chosen AI and services, develop useful capabilities through the factory, and carry tasks through to verified results.
 
 ## Start here
 
 The [KBP AI organization profile](https://github.com/WestCoastKBP) is our public entry point.
 
-- [Product direction](docs/PRODUCT.md): the assistant, factory, workspaces and intended first-run journey.
+- [Product direction](docs/PRODUCT.md): the factory, workspaces, assistant roles and intended first-run journey.
 - [Development status](docs/STATUS.md): current availability and the next demonstrations.
 - [Brand and philosophy](docs/BRAND.md): Knowledge Becomes Progress.
 - [Brand assets](assets/README.md): the adopted wordmark and identity.
@@ -26,4 +26,3 @@ Follow [KBP AI](https://github.com/WestCoastKBP) for demonstrated progress. For 
 [Documentation contributions](CONTRIBUTING.md) and [non-confidential product feedback](https://github.com/WestCoastKBP/.github/issues) are welcome. Keep private records and credentials out of public discussions.
 
 KBP means **Knowledge Becomes Progress**. AI means **Artificial Intelligence**. A product by **West Coast KBP**.
-
