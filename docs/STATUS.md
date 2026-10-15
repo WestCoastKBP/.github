@@ -1,37 +1,43 @@
-# Development status
+# Current status
 
-Updated **October 11, 2026**.
+Updated **October 15, 2026**.
 
-**KBP AI is a prototype in development.** Our direction covers work, personal life and creation. Our public entry point is [the KBP AI organization profile](https://github.com/WestCoastKBP).
+**KBP AI is a private prototype tested by one founder.** The public entry point is [the KBP AI organization profile](https://github.com/WestCoastKBP).
 
-## What you can see today
+## Observed in the private prototype
 
-This public surface provides [product direction](PRODUCT.md), [philosophy](BRAND.md), [brand assets](../assets/README.md) and a [collaboration contact](mailto:hello@kbp-ai.com).
+In the founder's private deployment:
 
-There is no public installer, implementation source release or reproducible product demo yet. Internal development and tests do not establish public availability.
+- work email enters an inbox;
+- a message becomes a retained matter with its source;
+- the matter reopens with its stage and next step.
 
-## The next proof
+A Google Calendar connection is read-only, and no calendar events have been shown in the app yet.
 
-| Demonstration target | What must be shown |
+## Public today
+
+This organization's [product direction](PRODUCT.md), [philosophy](BRAND.md), [brand assets](../assets/README.md), the [website](https://kbp-ai.com/) and its [source](https://github.com/WestCoastKBP/kbp-ai-site).
+
+## Next steps to demonstrate
+
+| Step | What must be shown |
 | --- | --- |
-| GitHub first | The intended account and repository, actual issue and pull-request state, and a selected task whose context and result can be reopened. |
-| Gmail next | A real incoming email, an approved reply, a confirmed send and history after reopening; duplicates, interruption and failures handled visibly. |
-| Supporting capabilities | Retained briefings, independent model analyses and voice capture that support a complete task, with actual results and any measured costs reported. |
+| Draft a reply | A prepared reply for a real incoming message, kept with its matter. |
+| Approve and send | The person's approval and the actual sending path, attributed to whoever performed it. |
+| Check the result | Confirmation of what happened after sending, kept with the matter after reopening. |
 
-These are development targets, not released features or delivery dates.
+These are next steps, not released features or delivery dates.
 
-These demonstrations target the intended iPhone and iPad interface; acceptance on physical devices remains to be completed. Briefings, model analyses and voice capture support the work rather than set the connection priority.
+## Being evaluated
 
-The first-run guide covers identity, API access, budget, connections and assistant setup. It remains in design. Telegram and WhatsApp are later communication targets. A full context graph, browser runtime, maps, telephone assistance and smart-home connections are further directions.
+A first useful free code release for developers. No release has been announced, and no software is available from this organization yet.
+
+## Not available
+
+A public installer, released application source, a reproducible end-to-end product demonstration, or any paid service.
 
 ## What a release must include
 
-A reviewed public source or distribution, an approved implementation license, documented platforms and account requirements, a working starting path, known limitations and a support route.
-
-Each public demonstration will identify its version, prerequisites and verified scope. Evidence must be suitable for public viewing without private records or credentials.
-
-## Updates
-
-Follow [KBP AI](https://github.com/WestCoastKBP) for demonstrated progress. Use [public feedback](https://github.com/WestCoastKBP/.github/issues) for non-confidential questions.
+Reviewed public source or a distribution, a chosen licence, documented platforms and account requirements, a working starting path, known limitations and a support route. Each public demonstration will state its version, prerequisites and verified scope, without private records or credentials.
 
 [Product direction](PRODUCT.md) · [KBP AI](https://github.com/WestCoastKBP)

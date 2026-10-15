@@ -5,52 +5,45 @@
   </picture>
 </p>
 
-<h1 align="center">Knowledge Becomes Progress</h1>
+# Knowledge Becomes Progress
 
-<p align="center"><strong>Your AI workspace for the real world.</strong></p>
-<p align="center">We’re building a workspace that connects your chosen AI, services and everyday context — so you can create, manage work and organize life, with control over permissions, costs and results.</p>
-<p align="center"><strong>Prototype in development.</strong></p>
+**KBP AI is an independent project exploring how people can build working systems around recurring tasks with AI.**
 
-<p align="center">
-  <a href="https://github.com/WestCoastKBP/.github/blob/main/docs/PRODUCT.md">Explore the product</a> ·
-  <a href="https://github.com/WestCoastKBP/.github/blob/main/docs/STATUS.md">Development status</a> ·
-  <a href="https://github.com/WestCoastKBP/.github/blob/main/docs/BRAND.md">Our philosophy</a>
-</p>
+AI can help write a reply. Keeping the customer's request moving across messages, documents and tools still takes work. Our first product test is for independent professionals and small-business owners who face that problem.
 
-## Work, life and creation
+**Private prototype · One founder testing it · No public installer yet**
 
-KBP AI is designed to bring useful AI workflows into one environment, with context and permissions suited to each task.
+## The first product test
 
-| Direction | Scenarios we are developing |
-| --- | --- |
-| Work and business | Organize requests, documents and follow-up; build tools for the way you work. |
-| Personal life | Keep selected messages, appointments and commitments connected; configure your own assistant. |
-| Creation | Develop an idea into a website, application or creative project, then test and improve it. |
+Incoming work email → a retained matter with its source → reopened with its stage and next step.
 
-KBP AI is intended to make it easier to explore an idea and understand how to carry it forward. Start with a guided task, learn the process as you work, and build toward a business, personal project or creative goal you choose.
+Those steps have been observed in the founder's private deployment. Drafting a reply, sending it and verifying the sent message have not yet been demonstrated live as a complete workflow. This is not a public end-to-end demo.
 
-For example, an appointment request arrives. The assistant finds the relevant context, prepares the next step and asks for any approval it needs. After acting, it checks the result and keeps the history with the matter.
+The longer-term direction is a system people can extend with further workflows, tools and products. A builder for non-technical users and self-service setup are not released.
 
-This is the experience we are building, not a released workflow.
+## Public work
 
-## Start with the factory. Build what you need.
+This organization currently publishes the KBP AI website, product documentation and brand assets. We are evaluating a first useful free code release for developers. The engineering engine and candidate components have not been publicly released.
 
-The factory is our first workspace for developing and testing capabilities. It is intended to help you shape agents, add supported connections and build useful software. The first-run guide will bring you through AI access, budget and one complete task. The engine works behind the scenes; you see steps, decisions and results.
+Developer-tool users and future KBP AI customers are different audiences. Using an open tool may help someone inspect our work; it does not show product adoption.
 
-Personal and Work spaces are designed with separate data and permissions. You choose which sources the assistant may use and what it may do.
+- [Product direction](https://github.com/WestCoastKBP/.github/blob/main/docs/PRODUCT.md)
+- [Current status](https://github.com/WestCoastKBP/.github/blob/main/docs/STATUS.md)
+- [Website](https://kbp-ai.com/)
+- [Website source](https://github.com/WestCoastKBP/kbp-ai-site)
 
-## Your devices, providers and budget
+## How we build
 
-We are targeting iPhone and iPad as the primary interface, with Linux and macOS deployment in mind. The runtime is intended to run on a computer you control or a hosted virtual machine.
+Our internal development uses Codex and Claude Code, with GitHub change control and independent review. PostgreSQL keeps operational records. This describes our development system. It is not a public deployment package or proof of customer outcomes.
 
-We are building around the evolving capabilities of OpenAI, Anthropic and Google through supported APIs and MCP, alongside subscription routes where available. Useful core workflows are intended to be part of the product; third-party service costs should stay visible and budgeted. New capabilities will be introduced as complete, tested scenarios.
+Connected services are evaluated one workflow at a time. Vendor availability, account access or a passing internal test does not make a released integration.
 
-## Follow the build
+## Follow or contribute
 
-There is no public installer, implementation source release or reproducible product demo yet. [Development status](https://github.com/WestCoastKBP/.github/blob/main/docs/STATUS.md) explains the next demonstrations and what must be verified.
+I'm Tony, the independent builder behind KBP AI, based near Sacramento. I share practical experiments and the decisions behind the product.
 
-**Follow [KBP AI](https://github.com/WestCoastKBP)** for demonstrated progress. For a collaboration proposal, contact [hello@kbp-ai.com](mailto:hello@kbp-ai.com).
+Follow development here, read [practical notes on Telegram](https://t.me/kbp_ai), or describe a recurring task or collaboration idea at [hello@kbp-ai.com](mailto:hello@kbp-ai.com). Please keep private records and credentials out of public issues.
 
 ---
 
-**KBP AI — Knowledge Becomes Progress.** A product by **West Coast KBP**. AI means Artificial Intelligence. Independent project; vendor names do not imply partnership or endorsement.
+KBP means **Knowledge Becomes Progress**. AI means **Artificial Intelligence**. A product by **West Coast KBP**. Independent project; vendor names do not imply partnership or endorsement.

@@ -1,74 +1,42 @@
 # Product direction
 
-**KBP AI is your AI workspace for the real world.**
+**KBP AI is an independent project exploring how people can build working systems around recurring tasks with AI.**
 
-Our philosophy is **Knowledge Becomes Progress**: help a person integrate AI into their life, make decisions and interact with the outside world through authorized actions and verified results.
+Our philosophy is **Knowledge Becomes Progress**: AI should help a person carry real work forward, with decisions and permissions staying in their hands.
 
-**Prototype in development.** The experience below is our direction; it is not a released product.
+**Private prototype.** Everything below is direction unless [Current status](STATUS.md) records it as observed.
 
-## Who we are building for
+## The problem we start with
 
-People who already use AI but still move context between conversations, documents and apps themselves. We want to make that work easier while giving the person clear control of their assistant. This is an audience hypothesis to test.
+AI can help write a reply. Keeping a customer's request moving across messages, documents and tools still takes work: finding the context, deciding the next step, doing it, and remembering where things stand.
 
-The entry should also help people who want to try something new: understand the steps, experiment with a project and develop their own skills. The workspace should support their choices rather than prescribe one profession or type of project.
+## Who we are starting with
 
-## Work, life and creation
+Independent professionals and small-business owners who coordinate recurring customer work across their tools. This is a research hypothesis, not validated demand or a chosen industry. We look for people who describe this as a recurring problem, and we treat a simpler existing tool that solves it as a valid answer.
 
-The product direction spans business and professional work, personal affairs and creative projects. The factory should let a person develop websites, applications, agents and integrations for a concrete goal. A personal assistant is one configurable role within that environment.
+## The first product test
 
-Useful core workflows are intended to be part of the product. Third-party APIs, model use, voice and other paid services can still have their own costs. Product pricing and the exact included feature set are not announced.
+One incoming work message → a retained matter with its source → reopened with its stage and next step.
 
-We will follow the evolving capabilities of OpenAI, Anthropic and Google and introduce those that support a useful scenario. Each added tool, connection or control must complete its intended workflow before being represented as supported. Vendor availability alone does not establish KBP AI integration.
+The next steps to demonstrate are preparing a reply, the person's approval and sending, and checking what happened after sending. Until they are shown live, we do not describe them as available.
 
-## One matter, connected context
+## Where it is going
 
-Consider an appointment request. The assistant should recognize the person, find the relevant conversation or document, prepare a response and ask for the approval it needs. It should check the outcome and retain the next action, so the matter can continue later.
+The longer-term aim is a system people can develop around their own work: add the next workflow, then their own tools and products. The customer-inquiry workflow is the first test. It is not a released builder, and it is not the limit of the product.
 
-Relationships between people, messages, documents and commitments form the context we intend to preserve. Sources, uncertainty and corrections must remain visible. A full context graph and personal retention controls still require implementation.
+The product is being designed to show what has happened, what is waiting and what needs a decision. Personal and professional information must keep their own permissions. These are requirements we are building and testing.
 
-## The factory and your workspaces
+## How we approach vendors
 
-The factory is the first contour: it develops and tests capabilities that can become part of your assistant. The intended product will let users shape task-specific agents and add supported integrations.
+We build on the supported capabilities of AI and service vendors, and name each one accurately. Our internal use of Codex and Claude Code for development is different from serving product users through those vendors' APIs. Registration in a vendor program is not a partnership or an endorsement. Each connection is presented as supported only after its complete workflow is shown.
 
-The first-run guide should make this accessible without showing engine jobs, reviews or pull requests. You see the steps, connection health, decisions and results. Technical history should be available when needed.
+## Not available
 
-Personal and Work spaces are designed to keep their data and permissions separate. Shared execution must not silently share records or expand an agent's authority. Complete enforcement is still a release requirement.
+- A public installer or self-service setup.
+- Released application source.
+- A reproducible end-to-end product demonstration.
+- Any product subscription or workflow service.
 
-## The intended first-run journey
+We make no promise of universal channels or models, autonomous sending, data export or restore, an installed Russian/English interface, or measured savings before there is evidence for each.
 
-| Step | What you choose or receive |
-| --- | --- |
-| Sign in | Your identity. Apple and Google are planned; Sign in with ChatGPT depends on eligibility being confirmed for KBP AI. |
-| Connect AI | An API provider and supported subscription routes where available. Identity sign-in alone does not supply model access. |
-| Set a budget | Spending limits for models and paid services, with visible usage and a record of costs. |
-| Connect a source | An account or service, its permissions and its Personal or Work placement. |
-| Configure your assistant | Its responsibilities, voice and the actions it may perform or escalate. |
-| Complete one task | A retained result that you can check and reopen on your device. |
-
-The guide is not built yet. Offering assistant setup by default does not enable collection, answering or recording without the user's choice.
-
-## Connections that grow with the assistant
-
-Our direction includes communication, documents, calendars, maps, search, browser tasks and smart-home scenarios. Use supported APIs and MCP where appropriate, with documented operations and permissions for each connection.
-
-Phone assistance is another planned scenario: answer an authorized channel, take a message and retain a follow-up. Twilio and ElevenLabs are candidates; an existing mobile number may need carrier-supported forwarding. No live KBP AI telephone service is claimed.
-
-Every channel needs its own complete acceptance: incoming information, retained history, authorized action, confirmed result and visible failures. Uncertain sends must be reconciled before retrying.
-
-## Devices, runtime and cost
-
-We are targeting iPhone and iPad as the primary interface, with Linux and macOS deployment in mind. Home hardware and hosted virtual machines are intended deployment options. An installer and supported deployment profiles are not released.
-
-The runtime coordinates work, isolated workers execute bounded tasks, and data services retain state. Optional local models and separate storage are directions to investigate. Data sent to a cloud model is not locally processed just because it was stored at home.
-
-API use belongs in the product from the start. Supported subscriptions and separately billed APIs have different limits. Configurable budgets, per-provider usage and a transparent cost ledger are requirements, not implemented billing claims. Payment handling and any KBP AI pricing need separate decisions before launch.
-
-## First demonstrations
-
-The first demonstration direction is a useful GitHub connection: see the intended account and repository, read actual task and pull-request state, and follow a selected task to a verified result. Gmail comes next: a selected incoming thread, retained context, an approved reply and a confirmed send.
-
-Briefings, independent model analyses and voice capture are supporting capabilities. Each needs acceptance on the supported device before it can be presented as available.
-
-[Development status](STATUS.md) records what is publicly available and what proof is still needed.
-
-[Back to KBP AI](https://github.com/WestCoastKBP)
+[Current status](STATUS.md) · [Back to KBP AI](https://github.com/WestCoastKBP)
