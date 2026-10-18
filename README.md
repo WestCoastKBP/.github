@@ -1,28 +1,26 @@
 # KBP AI — Knowledge Becomes Progress
 
-**Your AI workspace for the real world — in development.**
+We build and test an AI work environment for our own daily work: software development, correspondence and business processes.
 
-KBP AI is being built as one environment for work, personal life and creation: connect your chosen AI and services, develop useful capabilities through the factory, and carry tasks through to verified results.
+Our work includes agent workflows, tool integrations, and experiments with local and cloud environments. We plan to release the parts that hold up in our own use as free, open-source tools.
+
+**The project is in development. There is no public KBP AI application release yet.**
 
 ## Start here
 
-The [KBP AI organization profile](https://github.com/WestCoastKBP) is our public entry point.
+- [Organization profile](https://github.com/WestCoastKBP)
+- [What we're building](docs/PRODUCT.md)
+- [Current status](docs/STATUS.md)
+- [Brand and philosophy](docs/BRAND.md)
+- [Identity and assets](assets/README.md)
 
-- [Product direction](docs/PRODUCT.md): the factory, workspaces, assistant roles and intended first-run journey.
-- [Development status](docs/STATUS.md): current availability and the next demonstrations.
-- [Brand and philosophy](docs/BRAND.md): Knowledge Becomes Progress.
-- [Brand assets](assets/README.md): the adopted wordmark and identity.
+## This repository
 
-## About this repository
+This repository contains public documentation and brand assets. It does not contain the application runtime or an installer. The organization profile is rendered from [profile/README.md](profile/README.md).
 
-This public repository contains product presentation, documentation and brand assets. It does not contain the product implementation or an installer.
+[Documentation feedback](CONTRIBUTING.md) and [non-confidential questions](https://github.com/WestCoastKBP/.github/issues) are welcome.
 
-The organization profile is rendered from [profile/README.md](profile/README.md). A public implementation release will need its own reviewed source, license and working starting path.
+Questions or collaboration: [hello@kbp-ai.com](mailto:hello@kbp-ai.com).
 
-## Follow or contact
+A project of West Coast KBP.
 
-Follow [KBP AI](https://github.com/WestCoastKBP) for demonstrated progress. For collaboration, contact [hello@kbp-ai.com](mailto:hello@kbp-ai.com).
-
-[Documentation contributions](CONTRIBUTING.md) and [non-confidential product feedback](https://github.com/WestCoastKBP/.github/issues) are welcome. Keep private records and credentials out of public discussions.
-
-KBP means **Knowledge Becomes Progress**. AI means **Artificial Intelligence**. A product by **West Coast KBP**.

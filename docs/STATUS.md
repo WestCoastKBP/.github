@@ -1,37 +1,35 @@
-# Development status
+# Status
 
-Updated **October 11, 2026**.
+Updated **October 17, 2026**.
 
-**KBP AI is a prototype in development.** Our direction covers work, personal life and creation. Our public entry point is [the KBP AI organization profile](https://github.com/WestCoastKBP).
+KBP AI is in development. There is no public application release, end-user installer or hosted service.
 
-## What you can see today
+## Public today
 
-This public surface provides [product direction](PRODUCT.md), [philosophy](BRAND.md), [brand assets](../assets/README.md) and a [collaboration contact](mailto:hello@kbp-ai.com).
+- [Project overview](https://github.com/WestCoastKBP) and these documents.
+- [Website](https://kbp-ai.com/) and its [source](https://github.com/WestCoastKBP/kbp-ai-site).
+- [Brand assets](../assets/README.md).
 
-There is no public installer, implementation source release or reproducible product demo yet. Internal development and tests do not establish public availability.
+These materials do not include the application runtime.
 
-## The next proof
+## In our own development work
 
-| Demonstration target | What must be shown |
-| --- | --- |
-| GitHub first | The intended account and repository, actual issue and pull-request state, and a selected task whose context and result can be reopened. |
-| Gmail next | A real incoming email, an approved reply, a confirmed send and history after reopening; duplicates, interruption and failures handled visibly. |
-| Supporting capabilities | Retained briefings, independent model analyses and voice capture that support a complete task, with actual results and any measured costs reported. |
+We use agents from more than one vendor for software development, including review by a model from a different vendor. We are testing how to retain task context, check results and recover when work stops.
 
-These are development targets, not released features or delivery dates.
+This describes internal use, not a public service or a guarantee that every workflow is reliable.
 
-These demonstrations target the intended iPhone and iPad interface; acceptance on physical devices remains to be completed. Briefings, model analyses and voice capture support the work rather than set the connection priority.
+## In progress
 
-The first-run guide covers identity, API access, budget, connections and assistant setup. It remains in design. Telegram and WhatsApp are later communication targets. A full context graph, browser runtime, maps, telephone assistance and smart-home connections are further directions.
+Correspondence in the application: bringing selected incoming email into one place, preparing an editable reply for a person to approve, and retaining it after reopening. End-to-end daily use in the application still needs verification.
 
-## What a release must include
+## Next public step
 
-A reviewed public source or distribution, an approved implementation license, documented platforms and account requirements, a working starting path, known limitations and a support route.
+We plan to release a useful component from our software-development workflow as a free, open-source tool. A release needs a license, documented prerequisites, setup steps and known limitations, with verification outside our own setup.
 
-Each public demonstration will identify its version, prerequisites and verified scope. Evidence must be suitable for public viewing without private records or credentials.
+## Contact
 
-## Updates
+Questions or collaboration: [hello@kbp-ai.com](mailto:hello@kbp-ai.com).
+For non-confidential questions, use [public feedback](https://github.com/WestCoastKBP/.github/issues).
 
-Follow [KBP AI](https://github.com/WestCoastKBP) for demonstrated progress. Use [public feedback](https://github.com/WestCoastKBP/.github/issues) for non-confidential questions.
+[What we're building](PRODUCT.md) · [KBP AI](https://github.com/WestCoastKBP)
 
-[Product direction](PRODUCT.md) · [KBP AI](https://github.com/WestCoastKBP)
